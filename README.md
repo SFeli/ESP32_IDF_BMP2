@@ -1,7 +1,5 @@
 # BMP2 API
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
-
 This example shows how to use the new BOSCH - API 'BMP2' with a BMP280 - Sensor.
 
 ![Setup](/BMP2.JPG)
@@ -15,7 +13,6 @@ Run `idf.py set-target esp32c3'
 ### Configure the project
 
 Open the project configuration menu (`idf.py menuconfig`). 
-
 In the `Example Configuration` menu:
 
 * Set the connected PINs in the configuration.
