@@ -4,6 +4,9 @@
 
 This example shows how to use the new BOSCH - API 'BMP2' with a BMP280 - Sensor.
 
+![Setup](/BMP2.jpg)
+
+
 ## How to use example
 
 Set the Bord which you are using: e.g. 
