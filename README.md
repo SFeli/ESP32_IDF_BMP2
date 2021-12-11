@@ -4,7 +4,7 @@
 
 This example shows how to use the new BOSCH - API 'BMP2' with a BMP280 - Sensor.
 
-![Setup](/BMP2.jpg)
+![Setup](/BMP2.JPG)
 
 
 ## How to use example
