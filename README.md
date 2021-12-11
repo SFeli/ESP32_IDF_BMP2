@@ -42,5 +42,5 @@ See the Getting Started Guide for all the steps to configure and use the ESP-IDF
 Note that the output, in particular the order of the output, may vary depending on the environment.
 
 Console output if the Sensor is connected and working:
-```
+![Setup](/BMP2_output.JPG)
 
