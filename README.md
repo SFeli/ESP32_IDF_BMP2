@@ -10,6 +10,8 @@ This example shows how to use the new BOSCH - API 'BMP2' with a BMP280 - Sensor.
 Set the Bord which you are using: e.g. 
 Run `idf.py set-target esp32c3' 
 
+Note: For ESP32 - Board you can now user Platformio - since the ide supports the functions.
+
 ### Configure the project
 
 Open the project configuration menu (`idf.py menuconfig`). 
